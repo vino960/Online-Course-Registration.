@@ -28,4 +28,4 @@ All pages are interconnected for easy navigation:
 
 🔗 Live Website
 ---
-🌐 [Click here to view the live site](https://vino960.github.io/Online-Course-Registration/)
+🌐 [Click here to view the live site](https://vino960.github.io/Online-Course-Registration./)
